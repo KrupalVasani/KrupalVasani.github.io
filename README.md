@@ -1,2 +1,5 @@
-# KrupalVasani.github.io
-Hello GitHub dot IO
+# Welcome 
+Hello GitHub.io
+
+
+Thanks and regards.
